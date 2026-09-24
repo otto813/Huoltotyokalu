@@ -1,0 +1,18 @@
+=== Huoltotyökalun raportti ===
+Aika: 2026-09-24 14:13:01
+
+Levytila:
+Vapaata levytilaa: 38 GiB
+Käytettyä levytilaa: 40 GiB
+
+Järjestelmätiedot:
+Käyttöjärjestelmä: Windows
+Versio: 10.0.26200
+Suoritin: AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD
+Tietokoneen nimi: windows11
+
+Palveluiden tila:
+Spooler: Käynnissä
+wuauserv: Pysäytetty
+BITS: Pysäytetty
+
