@@ -1,5 +1,5 @@
 === Huoltotyökalun raportti ===
-Aika: 2026-09-24 14:13:01
+Aika: 2026-09-25 12:19:18
 
 Levytila:
 Vapaata levytilaa: 38 GiB
@@ -8,7 +8,7 @@ Käytettyä levytilaa: 40 GiB
 Järjestelmätiedot:
 Käyttöjärjestelmä: Windows
 Versio: 10.0.26200
-Suoritin: AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD
+Suoritin: Intel64 Family 6 Model 167 Stepping 1, GenuineIntel
 Tietokoneen nimi: windows11
 
 Palveluiden tila:
