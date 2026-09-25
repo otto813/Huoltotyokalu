@@ -18,7 +18,7 @@ Ohjelmalla voi:
 
 ## Siirrettävyys
 
-Ohjelma on tarkoitettu Windowsille ja toimii toisella Windows-koneella, jos Python on asennettu. Levytilan tarkistus käyttää C:-asemaa.
+Ohjelma on tarkoitettu Windowsille ja toimii toisella Windows-koneella, jos Python on asennettu. Levytilan tarkistus käyttää C:asemaa.
 
 ## Rajoitteet
 
@@ -27,3 +27,6 @@ Ohjelma tarkistaa vain C:aseman ja kolme Windows palvelua.
 ## Kehitysajatukset
 
 Ohjelmaan voisi lisätä lisää tarkistuksia ja palveluita sekä kehittää raporttia selkeämmäksi.
+
+
+Käytin tekoälyä apuna kohdissa, joita en ihan kunnolla ymmärtänyt sekä joidenkin koodikohtien toiminnan tarkistamiseen. Pyysin tekoälyltä myös selityksiä muutamiin python komentoihin.
