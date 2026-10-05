@@ -28,5 +28,4 @@ Ohjelma tarkistaa vain C:aseman ja kolme Windows palvelua.
 
 Ohjelmaan voisi lisätä lisää tarkistuksia ja palveluita sekä kehittää raporttia selkeämmäksi.
 
-
-Käytin tekoälyä apuna kohdissa, joita en ihan kunnolla ymmärtänyt sekä joidenkin koodikohtien toiminnan tarkistamiseen. Pyysin tekoälyltä myös selityksiä muutamiin python komentoihin.
+Käytin tekoälyä apuna tässä.
